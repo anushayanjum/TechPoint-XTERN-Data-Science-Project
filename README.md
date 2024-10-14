@@ -72,4 +72,4 @@ A new challenge designed to keep fans engaged throughout the race by making mult
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/velocityx-data-analysis.git
+   git clone https://github.com/anushayanjum/TechPoint-XTERN-Data-Science-Project.git
