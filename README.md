@@ -4,7 +4,7 @@
 
 VeloCityX is an innovative application designed to enhance the spectator experience in the world of autonomous racing. The app features immersive 360° live coverage, interactive fan challenges, virtual merchandise purchases, and sponsorship integration. This project involves using data science to analyze user interactions with the app and provide insights that drive fan engagement and monetization strategies.
 
-As part of this analysis, we:
+As part of this analysis, I:
 
 - Cleaned and prepared the provided dataset for analysis.
 - Conducted clustering and predictive modeling to uncover key insights into user behavior.
